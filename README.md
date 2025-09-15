@@ -1,9 +1,3 @@
-You are absolutely right\! My apologies for that mistake. I misidentified the file type. Thank you for the correction.
-
-Based on the file being `customer_segmentation.py`, the project is a runnable Python script, not a Jupyter Notebook. Here is the fully corrected `README.md` with the proper instructions.
-
------
-
 # 🚀 Elevvo Customer Segmentation 📊
 
 **"A data-driven approach to understanding your customers"** 📈
